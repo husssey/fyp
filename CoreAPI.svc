@@ -1,1 +1,0 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Service="Remote_Device_Controller_CloudApp.CoreAPI" CodeBehind="CoreAPI.svc.cs" %>

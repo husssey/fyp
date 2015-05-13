@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Remote_Device_Controller_CloudApp.UserManagment" CodeBehind="UserManagment.svc.cs" %>
